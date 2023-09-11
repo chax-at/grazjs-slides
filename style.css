@@ -1,0 +1,9 @@
+.footnotes {
+    position: absolute;
+    bottom: 1rem;
+    font-size: 0.8rem;
+}
+
+.footnote-backref {
+    display: none;
+}
