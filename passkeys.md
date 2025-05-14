@@ -9,9 +9,10 @@ canvasWidth: 680
 ---
 
 ## Passkeys
-_"The future Passwordless Authentication"...maybe?_
+_"The future of Passwordless Authentication"...maybe?_
 
-Mattis Turin-Zelenko, chax.at
+Mattis Turin-Zelenko, chax.at\
+https://github.com/chax-at/grazjs-slides/
 
 ---
 
@@ -58,10 +59,13 @@ Mattis Turin-Zelenko, chax.at
   * cross-device syncing (Google Password Manager, iCloud Keychain)
   * Cross Device possible: scan QR code on PC
 * TPM (e.g. Windows Hello)
+* Password Manager
 
 ---
+class: 'text-center'
+---
 
-### Passkeys - Demo
+## Passkeys - Demo
 
 ---
 

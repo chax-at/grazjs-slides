@@ -118,4 +118,4 @@ Mattis Turin-Zelenko, chax.at
 * DB calls can be mocked where possible
 * Transactional testing can speed up tests
   * No test case changes required
-  * `@chax-at/transactional-prisma-testing` npm package can handle set up
+  * `@chax-at/transactional-prisma-testing` npm package can handle setup

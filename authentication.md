@@ -175,7 +175,7 @@ layout: center
 * Verify dependencies yourself (especially if security-critical)
   * feasability with 1205 dependencies?
   * reduce dependencies?
-* Use paid services (auth0, ...) from specialized companies
+* Use (paid) services (auth0, ...) from specialized companies
   * Vendor lock-in?
   * closed source?
 * Other ideas?
